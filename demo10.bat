@@ -1,0 +1,11 @@
+cd ..
+sam -speed 80 "hello and wellcome to tonights show I am sam short for software automatic mouth so anyways lets begin"
+sam -speed 80 "I got 3 strikes in bowling and then could not play base ball the next day"
+sam -speed 80 "singing in the shower is fun untill you get soap in your mouth. because then it beacomes a soap opera!"
+sam -speed 80 "these next jokes will be preformed with 2 diffrent voices"
+sam -speed 80 "I have a pen that can wirtte underwater"
+sam -speed 82 -pitch 32 -throat 145 -mouth 145 "ohhh let me see!"
+sam -speed 80 "and it can wirtte other words"
+sam -speed 80 "what do you call a bear with no teeth?"
+sam -speed 82 -pitch 32 -throat 145 -mouth 145 "I dont know. what is it called"
+sam -speed 80 "a gummy bear!"
